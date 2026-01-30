@@ -16,7 +16,7 @@ hands = mp_hands.Hands(
     min_detection_confidence=0.7
 )
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 print("Press 'q' to quit")
 
