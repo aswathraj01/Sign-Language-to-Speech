@@ -37,8 +37,8 @@ def correct_word(word):
 # ================== TEXT TO SPEECH ==================
 engine = pyttsx3.init()
 
-ELEVEN_API_KEY = "sk_c11e62579b7fbb5ccded89ecd21914066251ece33b242b08"   # <-- put your key here
-VOICE_ID = "EXAVITQu4vr4xnSDxMaL"            # default voice
+ELEVEN_API_KEY = "sk_c11e62579b7fbb5ccded89ecd21914066251ece33b242b08"
+VOICE_ID = "EXAVITQu4vr4xnSDxMaL" 
 
 def speak_text(text):
     try:
