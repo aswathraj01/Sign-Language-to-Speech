@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/aswathraj01/Sign-Language-to-Speech?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/aswathraj01/Sign-Language-to-Speech?style=for-the-badge)
 ![License](https://img.shields.io/github/license/aswathraj01/Sign-Language-to-Speech?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswath%20Raj-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aswathraj01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswath%20Raj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aswath-raj-144b032ba/))
 
 
 
