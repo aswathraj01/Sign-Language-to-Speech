@@ -1,6 +1,12 @@
 # Sign Language to Speech 🎙️🤟
 
-![Contributors](https://img.shields.io/github/contributors/aswathraj01/Sign-Language-to-Speech?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/aswathraj01/Sign-Language-to-Speech?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/aswathraj01/Sign-Language-to-Speech?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/aswathraj01/Sign-Language-to-Speech?style=for-the-badge) ![License](https://img.shields.io/github/license/aswathraj01/Sign-Language-to-Speech?style=for-the-badge)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 ## About The Project
