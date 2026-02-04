@@ -25,14 +25,15 @@ The system uses **MediaPipe** for hand landmark detection and a **machine learni
 
 ### Built With
 
-* [Python](https://www.python.org/)
-* [OpenCV](https://opencv.org/)
-* [MediaPipe](https://developers.google.com/mediapipe)
-* [NumPy](https://numpy.org/)
-* [Scikit-learn](https://scikit-learn.org/)
-* [pygame](https://www.pygame.org/)
-* [pyttsx3](https://pyttsx3.readthedocs.io/)
-* [ElevenLabs API](https://www.elevenlabs.io/)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange?style=for-the-badge&logo=google)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikit-learn)
+![Pygame](https://img.shields.io/badge/Pygame-Audio-lightgrey?style=for-the-badge&logo=pygame)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-TTS-purple?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Text%20to%20Speech-black?style=for-the-badge)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
