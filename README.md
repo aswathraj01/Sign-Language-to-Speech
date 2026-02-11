@@ -12,7 +12,6 @@
 
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](#)
 
 Sign language is a primary mode of communication for deaf and speech-impaired individuals, yet most people do not understand it.  
 This project aims to bridge that communication gap by converting **sign language letters (A–Z)** into **real-time audible speech** using a standard webcam.
